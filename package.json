@@ -21,6 +21,7 @@
   "homepage": "https://github.com/ilyachenko/Microsoft-Entra-ID-Sandbox#readme",
   "description": "",
   "dependencies": {
+    "@azure/msal-node": "^3.6.3",
     "dotenv": "^17.2.0",
     "express": "^5.1.0"
   },
